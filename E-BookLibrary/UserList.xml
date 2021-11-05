@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><UserList>
+    <User>
+        <id>1</id>
+        <userName>Mikls</userName>
+        <password>12344321</password>
+        <firstName>Vitali</firstName>
+        <lastName>Mikulich</lastName>
+        <role>ADMIN</role>
+        <listBook>
+        </listBook>
+    </User>
+    <User>
+        <id>2</id>
+        <userName>svet66</userName>
+        <password>1770638</password>
+        <firstName>Svetlana</firstName>
+        <lastName>Semenova</lastName>
+        <role>USER</role>
+        <listBook>
+        </listBook>
+    </User>
+    <User>
+        <id>3</id>
+        <userName>Karat</userName>
+        <password>qwerty</password>
+        <firstName>Andrei</firstName>
+        <lastName>Sokolov</lastName>
+        <role>USER</role>
+        <listBook>
+    </listBook>
+    </User>
+    
+    
+</UserList>
